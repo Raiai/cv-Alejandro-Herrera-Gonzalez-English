@@ -1,6 +1,6 @@
 ## Alejandro Herrera Gonzalez
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am a self taught lover of programing and artificial intelligences with a strong entrepreneurial spirit and a special taste for challenge. At this point my best achivement was to be able to create a artificial intelligences that could self taught without the interbention of a human been. I am looking for a job that challenge my knowledge of artificial intelligences with the support of an interdisciplinary group in an environment that encourages constant and rapid change.
 
 ## Skills
 
