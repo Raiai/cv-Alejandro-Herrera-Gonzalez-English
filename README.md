@@ -46,6 +46,9 @@ I like to have the big picture of the business in my mind before start any devel
 #### English
 Level b1
 
+#### Español
+Native language level
+
 ## Experience
 
 **Company Name** (start_date to end_date)    
