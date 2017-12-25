@@ -18,26 +18,11 @@ I am interested in follow and learn the latest trends about technology that can 
 
 Before start a new development i use the perspective of a starp-up where the resourses are scarce and the enviroment is rapidly changing, this perspective allow me to create cost efficient solutions that could be implemented fast.
 
-- I achieved this skill during my first 3 failed start-ups
-- In my first start-up i 
-- A link to some on-line evidence:
-  1) Link to the documentation of the artificial intelligences that is able to make Appraisals of real estate propierties,note: all the documentation is in Spanish. : https://raiai.weebly.com/dev-v2.html
-  2) Link to test the artificial intelligences : https://documenter.getpostman.com/view/1645681/real_state_api/6YzuYj5
+- I achieved this skill during my first 3 failed startups where i learned to invest the resources wisely. 
 
+### Teamwork mentality.
 
-
-
-## Respect for deadlines.
-falta
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+I like to have the big picture of the business in my mind before start any development so one of the best ways to achieve this is with the team work spesially with those who has the oportunity to share with the final customer.
 
 ## Education
 
