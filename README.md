@@ -32,7 +32,8 @@ I like to have the big picture of the business in my mind before start any devel
 - Fast, independent learner. 
 
 - Python programmer
-- Machine learning and Artificial intelligence
+- Machine learning and Artificial intelligence programer
+- Development and deployment of  REST API on AWS
 - Web scrapping 
 
 #### Your University / College (January 2015 to December 2016)
