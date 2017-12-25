@@ -36,10 +36,10 @@ I like to have the big picture of the business in my mind before start any devel
 - Development and deployment of  REST API on AWS
 - Web scrapping 
 
-#### Your University / College (January 2015 to December 2016)
 
-- Subject, any specialisms
-- Grade
+#### Universidad de Medellin (February 2009 to October 2015)
+
+- Tourism Business Administrator in Tourism
 - Other cool stuff
 
 #### Any other qualifications
