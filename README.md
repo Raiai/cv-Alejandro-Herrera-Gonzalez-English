@@ -51,7 +51,7 @@ Native language level
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Municipality of San Jerónimo** (November 2016 to December 2016)    
+*contractor*  
+**Raiai** (December 2016 to December 2017)   
+*CTO*  
