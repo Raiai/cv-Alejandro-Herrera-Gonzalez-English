@@ -5,20 +5,18 @@ I am a self taught lover of programing and artificial intelligences with a stron
 ## Skills
 
 #### Hungry for learning
-colocar que me gusta aprender cosas nuevas de forma natural y automotivada
 
-I am able to learn something new in a short period of time through the experimentation of try and failure, once i understand how that works i like to share that knowledge.
+I am interested in follow and learn the latest trends about technology that can change significantly the standard of the current industry , also i am able to learn something new in a short period of time through the experimentation of try and failure, once i understand how something works i like to share that knowledge.
 
 - I achieved this skill during my lifetime
 - I contributed to the develop of Raiai while doing my job as CTO
 - A link to some on-line evidence:
-  Note: All the documentation is in Spanish.
-  1) Link to the documentation of the artificial intelligences that is able to make Appraisals of real estate propierties : https://raiai.weebly.com/dev-v2.html
+  1) Link to the documentation of the artificial intelligences that is able to make Appraisals of real estate propierties,note: All the documentation is in Spanish. : https://raiai.weebly.com/dev-v2.html
   2) Link to test the artificial intelligences : https://documenter.getpostman.com/view/1645681/real_state_api/6YzuYj5
 
-## A business perspective.
+#### A business perspective.
 
-falta
+
 
 
 ## Respect for deadlines.
