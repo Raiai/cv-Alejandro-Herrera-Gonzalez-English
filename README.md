@@ -26,18 +26,16 @@ I like to have the big picture of the business in my mind before start any devel
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Udemy (January 2015 to December 2016)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+- Curious and passionate about code. https://raiai.weebly.com/dev-v2.html
+- Fast, independent learner. 
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Python programmer
+- Machine learning and Artificial intelligence
+- Web scrapping 
 
-#### Your University / College (start_date to end_date)
+#### Your University / College (January 2015 to December 2016)
 
 - Subject, any specialisms
 - Grade
