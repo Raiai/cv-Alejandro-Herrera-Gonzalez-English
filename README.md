@@ -41,9 +41,9 @@ I like to have the big picture of the business in my mind before start any devel
 
 - Tourism Business Administrator in Tourism
 
-#### Languages
+## Languages
 
-## English
+#### English
 Level b1
 
 ## Experience
