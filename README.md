@@ -40,9 +40,11 @@ I like to have the big picture of the business in my mind before start any devel
 #### Universidad de Medellin (February 2009 to October 2015)
 
 - Tourism Business Administrator in Tourism
-- Other cool stuff
 
-#### Any other qualifications
+#### Languages
+
+## English
+Level b1
 
 ## Experience
 
