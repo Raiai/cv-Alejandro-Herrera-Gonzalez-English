@@ -29,7 +29,7 @@ I like to have the big picture of the business in my mind before start any devel
 
 #### Udemy (January 2015 to December 2016)
 
-- Curious and passionate about code. https://raiai.weebly.com/dev-v2.html
+- Curious and passionate about code.
 - Fast, independent learner. 
 
 - Python programmer
@@ -40,7 +40,7 @@ I like to have the big picture of the business in my mind before start any devel
 
 #### Universidad de Medellin (February 2009 to October 2015)
 
-- Tourism Business Administrator in Tourism
+- Tourism Business Administrator 
 
 ## Languages
 
