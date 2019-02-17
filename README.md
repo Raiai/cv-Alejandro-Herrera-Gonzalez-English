@@ -21,7 +21,7 @@ Before start a new development i use the perspective of a starp-up where the res
 
 - I achieved this skill during my first 3 failed startups where i learned to invest the resources wisely. 
 
-### Teamwork mentality.
+#### Teamwork mentality.
 
 I like to have the big picture of the business in my mind before start any development so one of the best ways to achieve this is with the team work spesially with those who has the oportunity to share with the final customer.
 
