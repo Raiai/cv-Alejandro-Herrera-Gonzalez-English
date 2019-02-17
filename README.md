@@ -12,7 +12,7 @@ I am interested in follow and learn the latest trends about technology that can 
 - I contributed to the develop of Raiai while doing my job as CTO
 - A link to some on-line evidence:
   1) Link to the documentation of the artificial intelligences that is able to make Appraisals of real estate propierties,note: all the documentation is in Spanish. : https://raiai.weebly.com/dev-v2.html
-  2) Link to test the artificial intelligences : https://documenter.getpostman.com/view/1645681/real_state_api/6YzuYj5
+  2) Link to test the artificial intelligences : https://realestate2.herokuapp.com/tasacion
   3) Link to my last knowledge sharing about machine learning : https://github.com/AlejandroHerreraGonzalez/Introduccion-Machine-learning-.git
 
 #### A business perspective
