@@ -56,3 +56,5 @@ Native language level
 *contractor*  
 **Raiai** (December 2016 to December 2017)   
 *CTO*  
+**FLUIDSIGNAL GROUP S.A** (September 2019)   
+*Security Developer Tester *
